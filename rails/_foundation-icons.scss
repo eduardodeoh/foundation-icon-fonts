@@ -7,7 +7,7 @@
  $fi-path: "." !default;
 
 @font-face {
-  font-family: "#{$fi-path}/foundation-icons";
+  font-family: "foundation-icons";
   src: font-url("#{$fi-path}/foundation-icons.eot");
   src: font-url("#{$fi-path}/foundation-icons.eot?#iefix") format("embedded-opentype"),
        font-url("#{$fi-path}/foundation-icons.woff") format("woff"),
